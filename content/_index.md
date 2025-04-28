@@ -5,12 +5,12 @@ action_type: text
 description: Website under construction. Please visit again soon for updates!
 image_left: true
 images:
-- img/mtn.jpg
+- img/logo2_tbck.png
 show_action_link: true
 show_social_links: false
-subtitle: Accounting, Mitigation, Disclosure
+subtitle: 
 text_align_left: false
-title: Integral GHG
+title: Accounting Mitigation Disclosure
 type: home
 ---
 
