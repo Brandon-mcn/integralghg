@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Services on Integral GHG</title>
+    <link>https://www.integralghg.com/services/</link>
+    <description>Recent content in Our Services on Integral GHG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.integralghg.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive GHG Accounting</title>
+      <link>https://www.integralghg.com/services/ghg-accounting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.integralghg.com/services/ghg-accounting/</guid>
+      <description>&lt;p&gt;We provide thorough greenhouse gas accounting services that cover Scope 1, Scope 2, and Scope 3 emissions. Our comprehensive approach ensures you have a complete picture of your organization&amp;rsquo;s carbon footprint, from direct emissions to those in your value chain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Built-for-Purpose Inventory Management Plan</title>
+      <link>https://www.integralghg.com/services/inventory-management/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.integralghg.com/services/inventory-management/</guid>
+      <description>&lt;p&gt;We develop tailored inventory management plans that align with your organization&amp;rsquo;s unique structure and goals. Our purpose-built approach ensures your emissions inventory system is practical, scalable, and integrated seamlessly with your existing operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Climate Compliance and Disclosure</title>
+      <link>https://www.integralghg.com/services/climate-compliance/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.integralghg.com/services/climate-compliance/</guid>
+      <description>&lt;p&gt;We help organizations meet evolving climate compliance requirements and prepare high-quality disclosure reports. Our expertise ensures you stay ahead of regulatory changes while communicating your climate performance clearly to stakeholders.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
